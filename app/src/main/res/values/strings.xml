@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lista_Telefonica2022</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="salvar">Salvar</string>
+    <string name="btnCancelarEditar">Cancelar Edição</string>
 </resources>
